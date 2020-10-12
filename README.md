@@ -9,7 +9,7 @@ Datasets:
 Skeleton data in NTU RGB+D and Kinetics400.  
 
 Architecture search:  
-python train_search_ntu.py    
+```python train_search_ntu.py```    
 
 Architecture evaluation:  
 python train_ntu.py  
