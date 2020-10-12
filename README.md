@@ -3,27 +3,27 @@ Code accompanying the paper
 SAR-NAS: Skeleton-based Action Recognition via Neural Architecture Searching  
 Accepted by the Journal of Visual Communication and Image Representation.  
 
-Requirements:  
+## Requirements
 ```Python >= 3.5.5, PyTorch == 0.4.1, torchvision == 0.2.1.```  
 
-Datasets:  
+## Datasets 
 Skeleton data in NTU RGB+D and Kinetics400.  
 
-Architecture search:  
+## Architecture search
 ```python train_search_ntu.py```    
 
-Architecture evaluation:  
+## Architecture evaluation
 ```python train_ntu.py```  
 
-Confusion Matrix:  
+## Confusion Matrix 
 ```python draw_confusion_matrix.py```  
 
-Visualization:
+## Visualization
 Package graphviz is required to visualize the learned cells  
 ```python visualize.py DARTS```    
 where DARTS can be replaced by any customized architectures in genotypes.py  
 
-Citation  
+## Citation  
 If you use any part of this code in your research, please cite our paper:  
 @article{Zhang2020sar-darts,  
   title={SAR-NAS: Skeleton-based Action Recognition via Neural Architecture Searching},  
