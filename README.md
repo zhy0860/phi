@@ -14,7 +14,7 @@ python train_search_ntu.py
 Architecture evaluation:  
 python train_ntu.py  
 
-Confusion Matrix:
+Confusion Matrix:  
 Python draw_confusion_matrix.py  
 
 Visualization:
