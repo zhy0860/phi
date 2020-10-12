@@ -15,7 +15,7 @@ Skeleton data in NTU RGB+D and Kinetics400.
 ## Architecture evaluation
 ```python train_ntu.py```  
 
-## Confusion Matrix 
+## Confusion matrix 
 ```python draw_confusion_matrix.py```  
 
 ## Visualization
