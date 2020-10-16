@@ -7,7 +7,11 @@ Accepted by the Journal of Visual Communication and Image Representation.
 ```Python >= 3.5.5, PyTorch == 0.4.1, torchvision == 0.2.1.```  
 
 ## Datasets 
-Skeleton data in NTU RGB+D and Kinetics400.  
+Skeleton data in NTU RGB+D can be obtained via:
+
+https://drive.google.com/open?id=1CUZnBtYwifVXS21yVg62T-vrPVayso5H
+
+Kinetics400 
 
 ## Architecture search
 ```python train_search_ntu.py```    
