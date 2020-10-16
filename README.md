@@ -11,7 +11,11 @@ Skeleton data in NTU RGB+D can be obtained via:
 
 https://drive.google.com/open?id=1CUZnBtYwifVXS21yVg62T-vrPVayso5H
 
-Kinetics400 
+Or via (Kinetics+NTU)：
+
+https://pan.baidu.com/s/1O1azJwxkzh04cOuSWyXi1Q
+extracted code: data
+
 
 ## Architecture search
 ```python train_search_ntu.py```    
