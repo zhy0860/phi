@@ -53,7 +53,7 @@ If you use any part of this code in your research, please cite our paper:
  - io, os, sys, math, random, numpy, scipy.misc, cv2
  - time, datatime, threading, cStringIO, ruamel_yaml, h5py
 ## Preparation (config.yaml)
-(modality: There are 8 modalities here including ffd, ffr, tfd, tfr, tsd, tsr, ttd and ttr, detailed description is as follows.
+(modality: There are 8 modalities here including ffd, ffr, tfd, tfr, tsd, tsr, ttd and ttr, detailed description is as follows. 
 modality 1: Primary modality
 modality 2: Privilege modality)
 
